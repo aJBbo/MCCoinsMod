@@ -4,3 +4,7 @@
 
 ### Mod Menu
 <img src="https://github.com/aJBbo/MCCoinsMod/blob/main/coinsmods.PNG?raw=true" width="600"/> 
+
+
+### Coins Crafting
+<img src="https://github.com/aJBbo/MCCoinsMod/blob/main/coinscrafing.PNG?raw=true" width="600"/> 
